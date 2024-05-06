@@ -11,6 +11,8 @@ Let's embark on this journey together, where every line of code is a step closer
 # Skills
 - HTML/CSS
 - Javascript
+- Typescript
+- C++
 - React.js
 - Node.js
 
