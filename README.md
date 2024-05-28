@@ -14,6 +14,7 @@ When I'm not buried in lines of code, you can find me exploring the latest advan
 - C++
 - React.js
 - Node.js
+- MongoDB
 
   
 
