@@ -7,7 +7,7 @@ From coding challenges to creative projects, I'm always eager to dive into new o
 When I'm not buried in lines of code, you can find me exploring the latest advancements in software development, experimenting with new frameworks, or immersing myself in the world of digital design.
 
 
-# Skills
+## Skills
 - HTML/CSS
 - Javascript
 - Typescript
