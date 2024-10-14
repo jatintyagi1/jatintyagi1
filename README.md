@@ -33,10 +33,8 @@
 
 <br />
 
-<a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=yolk23&icon=1&color=1" />
-</a>
 
+![Visitor Count](https://visitcount.itsvg.in/api?id=jatintyagi1&icon=1&color=1)
 
   
 
