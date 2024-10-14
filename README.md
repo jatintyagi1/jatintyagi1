@@ -34,7 +34,7 @@
 <br />
 
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=jatintyagi1&icon=1&color=1)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=jatintyagi1)
 
   
 
