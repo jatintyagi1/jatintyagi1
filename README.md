@@ -31,6 +31,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatintyagi1&" alt="jatintyagi1" /></p>
 
+<br />
+
+<a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=yolk23&icon=1&color=1" />
+</a>
+
+
   
 
   
