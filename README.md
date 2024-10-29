@@ -12,6 +12,8 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jatin-tyagi-4a46612b3#gh-dark-mode-only)
 &nbsp;&nbsp;
 
+<br/>
+
 ### Language and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
