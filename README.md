@@ -27,7 +27,9 @@
 <br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatintyagi1&show_icons=true&locale=en&layout=compact" alt="jatintyagi1" /></p> <br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatintyagi1&show_icons=true&locale=en&layout=compact" alt="jatintyagi1" /></p> 
+
+<br/>
 
 <img align="left" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=jatintyagi1&show_icons=true&hide_border=true">
 
