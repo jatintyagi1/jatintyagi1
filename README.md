@@ -1,17 +1,6 @@
 <h1 align="center">Hi there, I'm Jatin Tyagi 👋</h1>
 <h1 align="center">A passionate React Developer</h1>
 
-
-### Connect with me:
-
-&nbsp;&nbsp;
-[![website](./twitter.svg)](https://x.com/Jatin_Tyagi_1#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://x.com/Jatin_Tyagi_1#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./linkedin.svg)](https://www.linkedin.com/in/jatin-tyagi-4a46612b3#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jatin-tyagi-4a46612b3#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 <br/>
 
 ### Language and Tools:
